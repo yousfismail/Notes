@@ -13,7 +13,7 @@ final IconData icon;
         Text(title , style: const TextStyle(fontSize:  28,
          ),
         ),
-        Spacer(),
+        Spacer() ,
         CustomSearchIcon (
           icon: icon,
         ),
