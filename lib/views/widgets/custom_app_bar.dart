@@ -14,7 +14,7 @@ final IconData icon;
          ),
         ),
         Spacer(),
-        CustomSearchIcon(
+        CustomSearchIcon (
           icon: icon,
         ),
       ],
