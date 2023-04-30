@@ -18,7 +18,7 @@ class NoteModel extends HiveObject {
     required this.subTitle,
     required this.data,
     required this.color});
-
+ 
 
  
 
