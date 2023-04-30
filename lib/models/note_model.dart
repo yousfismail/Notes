@@ -20,7 +20,7 @@ class NoteModel extends HiveObject {
     required this.color});
 
 
-
+ 
 
 
 
