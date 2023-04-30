@@ -5,7 +5,8 @@ import '../../constants.dart';
 
 class CustomButton extends StatelessWidget {
   const CustomButton({super.key});
-    @override
+
+  @override
   Widget build(BuildContext context) {
     return Container(
       width: MediaQuery.of(context).size.width,
