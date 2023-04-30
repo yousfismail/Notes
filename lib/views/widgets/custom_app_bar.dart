@@ -10,7 +10,7 @@ final IconData icon;
   Widget build(BuildContext context) {
     return Row(
       children:  [
-        Text(title , style: const TextStyle(fontSize: 28,
+        Text(title , style: const TextStyle(fontSize:  28,
          ),
         ),
         Spacer(),
